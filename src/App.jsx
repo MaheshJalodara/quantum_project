@@ -5,12 +5,13 @@ import { Header } from './container/Header';
 import "primereact/resources/themes/lara-light-cyan/theme.css";
 import 'primeflex/primeflex.scss';
 
+import 'primeicons/primeicons.css';
+        
 
 
 const App = () => {
   return (
     <>
-
     <Header />
    </>
   );
