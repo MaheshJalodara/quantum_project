@@ -11,7 +11,7 @@ export const MenuContainer = () => {
 
   useEffect(() => {
     console.log(selectedMenu);
-  }, selectedMenu);
+  }, selectedMenu); 
 
   return (
     <>
